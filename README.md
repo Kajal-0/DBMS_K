@@ -5,7 +5,7 @@ This repository contains solutions for Database Lab 1 using SQL DDL and DML comm
 
 ## Files
 - lab1_solution.sql : SQL queries
-- questions.txt : Lab questions
+- DB-Lab-1 : Lab questions
 - README.md : Instructions
 
 ## How to Run
